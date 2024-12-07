@@ -1,0 +1,55 @@
+body{
+    background-color: #292929;
+}
+.header1{
+    height: 100vh;
+}
+
+h1{
+    color: white;
+}
+.hi{
+    font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 100px;
+  font-style: normal;
+  font-size: 100px;
+}
+.name{
+    font-family: "Pacifico", serif;
+  font-weight: 100px;
+  font-style: normal;
+  font-size: 100px;
+}
+.mainlead{
+    font-size: 60px;
+}
+.lead{
+    color: #b3b3b3;
+}
+.carousel-inner{
+    margin-top: 50px;
+}
+.img1{
+    height: 90vh;
+    object-fit: scale-down;
+}
+.carousel h1{
+    text-align: center;
+}
+hr{
+    border: double;
+    margin: 100px auto;
+    color: white;
+}
+.footer {
+    color: #4CAF50; /* Change to your preferred color */
+}
+
+.text-body-secondary {
+    color: #4CAF50 !important; /* Ensures it overrides other styles */
+}
+
+.nav a {
+    color: #4CAF50 !important; /* Changes the color of social media icons */
+}
